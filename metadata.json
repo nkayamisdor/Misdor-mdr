@@ -1,0 +1,6 @@
+{
+  "name": "Voix Studio",
+  "description": "Studio vocal professionnel pour générer, personnaliser et télécharger des voix avec contrôle de hauteur, vitesse et intonation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
